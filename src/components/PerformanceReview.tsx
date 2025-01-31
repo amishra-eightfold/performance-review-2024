@@ -460,8 +460,7 @@ const PerformanceReview: React.FC = () => {
           'The support team has the most comprehensive product knowledge, often surpassing individual engineering pods in problem resolution.',
           'My vision is to eliminate repetitive manual tasks such as:',
           'Manual email writing.',
-          'Manual JIRA creation & follow-ups.',
-          'Unnecessary Slack threads.',
+          'Manual JIRA Creation & Automatic follow ups on the JIRA and slack theads until we get the response',
           'I want the support team to transition into reviewers of AI-generated responses rather than primary writers, enabling higher-impact problem-solving.',
           'Looking ahead, I see myself transitioning into an engineering role focused on automation and feature implementation at Eightfold.'
         ]
